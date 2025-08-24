@@ -33,3 +33,7 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@46.202.30.3:8880?encryption=none&se
 vless://32db15da-c178-4b0c-9a27-0351951711d3@ov-poland1.09vpn.com:8443?encryption=none&security=tls&sni=ov-poland1.09vpn.com&fp=chrome&allowInsecure=1&type=ws&host=ov-poland1.09vpn.com&path=%2Fvless%2F#(ws) 57.128.198.226: Poland
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@5.10.214.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=%2F#(ws) 5.10.214.177: Armenia
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?encryption=none&security=tls&sni=bitget1.asdasd.click&fp=random&allowInsecure=1&type=ws&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560fp%3Dchrome#(ws) 190.93.246.246: Costa Rica
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@49.246.69.204:12106?encryption=none&security=tls&sni=jp.laoyoutiao.link&fp=chrome&allowInsecure=1&type=ws&host=jp.laoyoutiao.link&path=Telegram%40freecodes%2F%3Fed%3D2560#(ws) 49.246.69.204: South Korea
+vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?encryption=none&security=tls&fp=chrome&allowInsecure=1&type=ws&path=%2Fajnexnws#(ws) 45.89.107.244: Malaysia
+vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?encryption=none&security=tls&sni=pq.chile1.09vpn.com&fp=chrome&allowInsecure=1&type=ws&host=pq.chile1.09vpn.com&path=%2Fvless%2F#(ws) 45.82.249.42: Chile
+vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443?encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&allowInsecure=1&type=grpc#(grpc) 14.102.228.18: Czechia
