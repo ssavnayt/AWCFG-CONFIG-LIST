@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXeWduMlUxbU52dTNSQ0k3d0pNMTJC@kz.sometrustvpn.ru:26799/#@trust_vpn_bot-Kazakhstan 🇰🇿-limit-2.00GB
 vless://b62358a4-967a-49e0-8e60-43d46f3efbc1@se.ascella.st:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&pbk=43YS2iGnE7kpXuJjRhelcfhxfB67Qn1LYJRIDMdW1kY&type=tcp#%F0%9F%87%B8%F0%9F%87%AASweden
 vless://b62358a4-967a-49e0-8e60-43d46f3efbc1@fi.ascella.st:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun9-48.userapi.com&pbk=GdCquKXwbmodZ4yFs6pL3tYbO9MKYsuEPyszenfBejI&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
 vless://b62358a4-967a-49e0-8e60-43d46f3efbc1@de.ascella.st:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bunny.net&pbk=gsQXJDXew4oqJtEB6q66wNlVdQFD_HADEaZaeNHomjc&type=tcp#%F0%9F%87%A9%F0%9F%87%AAGermany
