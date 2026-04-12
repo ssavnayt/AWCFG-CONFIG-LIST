@@ -1,0 +1,10 @@
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:443?type=tcp&security=reality&pbk=R4slAEs5ht_vhWA4YTu7wsQ4VCaLsoIJjarI_LX_EEQ&fp=qq&sni=un6-21.userapi.com&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#1
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:4443?type=tcp&security=reality&pbk=OoAn8_9D5oslLd0Jqt1rlAiIUnX1bExCHMOCaDz4IHs&fp=qq&sni=dog193.streisand.lt&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#2
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:8443?type=tcp&security=reality&pbk=U7XhE1W_yn1ezAVT-6VXoQKbuwSJqRuNufly1lI5HSw&fp=qq&sni=help.max.ru&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#3
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:8443?type=tcp&security=reality&pbk=U7XhE1W_yn1ezAVT-6VXoQKbuwSJqRuNufly1lI5HSw&fp=qq&sni=un6-21.userapi.com&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#4
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:8443?type=tcp&security=reality&pbk=U7XhE1W_yn1ezAVT-6VXoQKbuwSJqRuNufly1lI5HSw&fp=qq&sni=eh.vk.com&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#5
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:8443?type=tcp&security=reality&pbk=U7XhE1W_yn1ezAVT-6VXoQKbuwSJqRuNufly1lI5HSw&fp=qq&sni=ads.5ka.ru&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#6
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:8443?type=tcp&security=reality&pbk=U7XhE1W_yn1ezAVT-6VXoQKbuwSJqRuNufly1lI5HSw&fp=qq&sni=login.mts.ru&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#7
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:8443?type=tcp&security=reality&pbk=U7XhE1W_yn1ezAVT-6VXoQKbuwSJqRuNufly1lI5HSw&fp=qq&sni=www.apple.com&sid=612d8fa72c&spx=%2F&flow=xtls-rprx-vision#LTE_#8
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:9443?type=grpc&serviceName=mygrpc&authority=&security=reality&pbk=kjgGpu8iAeLqaf4-vWdT8Vkb6JuIoaJXq2_W9iA1MmE&fp=qq&sni=un6-21.userapi.com&sid=612d8fa72c&spx=%2F#LTE_#9
+vless://295b7f70-fa50-47a6-bae8-e9fcbf49ab09@88.210.10.187:2090?type=httpupgrade&path=/myhttpu&host=&security=tls&fp=chrome&alpn=&allowInsecure=&sni=dog193.streisand.lt#LTE_#10
