@@ -1,0 +1,4 @@
+#profile-name: Something is coming soon 😁 
+
+vless://soon@0.0.0.0#Something is coming soon...
+ss://soon@0.0.0.0#Mahsa configs leaking: 26.06.26
