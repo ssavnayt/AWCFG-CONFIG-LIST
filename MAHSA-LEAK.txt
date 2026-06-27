@@ -1,4 +1,6 @@
 #profile-name: Something is coming soon 😁 
 
-vless://soon@0.0.0.0#Something is coming soon...
-ss://soon@0.0.0.0#Mahsa configs leaking: 26.06.26
+vless://soon@0.0.0.0#Available in https://github.com/ssavnayt/AWCFG-CONFIG-LIST/tree/main/MahsaLeaks/26.06.2026
+
+
+ss://soon@0.0.0.0#Here: https://github.com/ssavnayt/AWCFG-CONFIG-LIST/tree/main/MahsaLeaks/26.06.2026
